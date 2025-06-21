@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy - MovieMood</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #111;
+    }
+    a {
+      color: #007aff;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for MovieMood</h1>
+  <p>Last updated: June 2025</p>
+
+  <p>We take your privacy seriously. MovieMood does not collect any personally identifiable information (PII).</p>
+
+  <h2>What we collect</h2>
+  <ul>
+    <li>We generate an anonymous device identifier to manage daily usage limits and Premium access status.</li>
+    <li>MovieMood uses OpenAI’s API to generate personalized movie suggestions based on your mood and preferences. These inputs are not stored or reused.</li>
+  </ul>
+
+  <h2>Third-Party Services</h2>
+  <ul>
+    <li>MovieMood uses OpenAI to generate recommendations. Read their privacy policy here: <a href="https://openai.com/policies/privacy-policy" target="_blank">OpenAI Privacy Policy</a>.</li>
+    <li>For in-app subscriptions, we use Apple In-App Purchases or Google Play Billing. No payment information is stored by us.</li>
+  </ul>
+
+  <h2>Premium Subscription</h2>
+  <p>Premium access is managed by Apple or Google. You can cancel or restore your subscription anytime from your device account settings.</p>
+
+  <h2>Changes to this policy</h2>
+  <p>We may update this policy at any time. We recommend checking this page regularly for changes.</p>
+
+  <h2>Contact</h2>
+  <p>For questions or concerns, contact us at: <a href="mailto:your@email.com">your@email.com</a></p>
+</body>
+</html>
